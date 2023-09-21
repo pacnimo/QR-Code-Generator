@@ -33,7 +33,7 @@ Keine Installation erforderlich. Einfach den Link zur Webseite besuchen: [Fancy 
 
 ## Autor
 
-[Dein Name](https://github.com/deingithubnutzername)
+[Dein Name](https://github.com/pacnimo)
 
 ## Lizenz
 
@@ -41,4 +41,4 @@ Dieses Projekt steht unter der MIT-Lizenz - siehe die [LICENSE.md](LICENSE.md) D
 
 ---
 
-Für weitere Informationen, bitte das [Wiki](https://github.com/deingithubnutzername/Fancy-QR-Code-Generator/wiki) besuchen.
+Für weitere Informationen, bitte das [Wiki](https://github.com/pacnimo/QR-Code-Generator/wiki) besuchen.
